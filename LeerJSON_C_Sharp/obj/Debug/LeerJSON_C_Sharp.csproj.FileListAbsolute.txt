@@ -1,0 +1,13 @@
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\bin\Debug\LeerJSON_C_Sharp.exe.config
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\bin\Debug\LeerJSON_C_Sharp.exe
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\bin\Debug\LeerJSON_C_Sharp.pdb
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.csprojAssemblyReference.cache
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.Form1.resources
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.Properties.Resources.resources
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.csproj.GenerateResource.cache
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.exe
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.pdb
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\juan\source\repos\LeerJSON_C_Sharp\LeerJSON_C_Sharp\obj\Debug\LeerJSON_C_Sharp.csproj.CopyComplete
